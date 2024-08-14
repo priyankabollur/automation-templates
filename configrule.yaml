@@ -85,14 +85,6 @@ Resources:
         GroupId:
           ResourceValue:
             Value: "RESOURCE_ID"
-        # IpProtocol:
-        #   StaticValue:
-        #     Values:
-        #       - '-1'
-        # CidrBlock:
-        #   StaticValue:
-        #     Values:
-        #       - 0.0.0.0/0
       ResourceType: 'AWS::EC2::SecurityGroup'
       Automatic: true
       MaximumAutomaticAttempts: 10
