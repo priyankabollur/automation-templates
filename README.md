@@ -1,9 +1,9 @@
 AWS Cloud Automation Scripts
-Welcome to the AWS Cloud Automation Scripts repository! This collection of scripts is designed to help automate various tasks and processes within the AWS Cloud environment. Whether you're managing EC2 instances, S3 buckets, or other AWS services, these scripts aim to simplify and streamline your cloud operations.
+Welcome to the AWS Cloud Automation Scripts repository! This collection of scripts is designed to help automate various tasks and processes within the AWS Cloud environment.
 
 To get started with these scripts, you'll need to clone the repository to your local machine and ensure you have the necessary AWS credentials and permissions configured. Follow the instructions below to set everything up.
 
-git clone [https://github.com/yourusername/aws-cloud-automation-scripts.git](https://github.com/priyankabollur/automation-templates.git)
+git clone https://github.com/priyankabollur/automation-templates.git
 
 cd aws-cloud-automation-scripts
 
@@ -28,10 +28,6 @@ Contributing: Contributions are welcome! If you'd like to contribute to this rep
 - Push to the branch (git push origin feature-branch).
 
 - Open a pull request.
-
-License
-
-- This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 Feel free to reach out if you have any questions or suggestions!
 
